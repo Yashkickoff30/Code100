@@ -13,3 +13,8 @@
   1. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
   1. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#)
   1. [Validate an IP Address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1#)
+  
+## DAY 5:
+  1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1#)
+  1. [Maximum Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1#)
+  1. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
