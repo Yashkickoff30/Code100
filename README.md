@@ -28,3 +28,8 @@
   1. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
   1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   1. [Two Sum](https://leetcode.com/problems/two-sum/)
+  
+## Day 8:
+  1. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+  1. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+  1. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
