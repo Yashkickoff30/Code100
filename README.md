@@ -23,3 +23,13 @@
   1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1#)
   1. [Maximum Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1#)
   1. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
+## Day 7:
+  1. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+  1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  1. [Two Sum](https://leetcode.com/problems/two-sum/)
+  
+## Day 8:
+  1. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+  1. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+  1. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
