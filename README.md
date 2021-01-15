@@ -38,3 +38,9 @@
   1. [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
   1. [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
   1. [Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
+
+
+## Day 10:
+  1. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+  1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
