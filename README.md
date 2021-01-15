@@ -33,3 +33,8 @@
   1. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   1. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
   1. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+  
+## Day 9:
+  1. [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
+  1. [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
+  1. [Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
