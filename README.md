@@ -44,3 +44,10 @@
   1. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
   1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+  
+
+
+## Day 11:
+  1. [Power of Three](https://leetcode.com/problems/power-of-three/)
+  1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+  1. [Combinations](https://leetcode.com/problems/combinations/)
