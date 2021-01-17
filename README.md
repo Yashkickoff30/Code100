@@ -46,8 +46,13 @@
   1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
   
 
-
 ## Day 11:
   1. [Power of Three](https://leetcode.com/problems/power-of-three/)
   1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
   1. [Combinations](https://leetcode.com/problems/combinations/)
+  
+
+## Day 12:
+  1. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+  1. [First and last occurrences of X](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0#)
+  1. [Search in a Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
